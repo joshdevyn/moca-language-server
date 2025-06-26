@@ -19,6 +19,8 @@ Get the latest release from the [Releases](https://github.com/joshdevyn/moca-lan
 - **Platforms**: Windows, macOS, Linux
 - **Run**: `java -jar moca-gui.jar`
 
+![MOCA GUI Applicationss](<MOCA GUI Application.png>)
+
 ## Quick Start Guide
 
 1. **Download** the appropriate file for your system
