@@ -58,10 +58,11 @@ public class FileManager {
             openFiles.put(uri, change.getText());
         } else {
             int offset = PositionUtils.getOffset(oldText, change.getRange().getStart());
+            int rangeLength = PositionUtils.getOffset(oldText, change.getRange().getEnd()) - offset;
             StringBuilder builder = new StringBuilder();
             builder.append(oldText.substring(0, offset));
             builder.append(change.getText());
-            builder.append(oldText.substring(offset + change.getRangeLength()));
+            builder.append(oldText.substring(offset + rangeLength));
             openFiles.put(uri, builder.toString());
         }
         changedFiles.add(uri);

@@ -39,12 +39,35 @@ public class MocaLanguageServer implements LanguageServer, LanguageClientAware {
     public static MocaLanguageServerOptions mocaLanguageServerOptions = new MocaLanguageServerOptions();
 
     public static void main(String[] args) {
-        MocaLanguageServer server = new MocaLanguageServer();
-        Launcher<LanguageClient> launcher = Launcher.createLauncher(server, LanguageClient.class, System.in,
-                System.out);
+        // Check if GUI mode is requested
+        boolean guiMode = false;
+        for (String arg : args) {
+            if ("--gui".equals(arg) || "-g".equals(arg)) {
+                guiMode = true;
+                break;
+            }
+        }
+        
+        if (guiMode) {
+            // Launch GUI
+            try {
+                Class<?> guiClass = Class.forName("com.github.joshdevyn.mocaide.gui.MocaIdeApplication");
+                java.lang.reflect.Method mainMethod = guiClass.getMethod("main", String[].class);
+                mainMethod.invoke(null, (Object) args);
+            } catch (Exception e) {
+                System.err.println("Failed to launch GUI: " + e.getMessage());
+                System.err.println("GUI components may not be available in this build.");
+                System.exit(1);
+            }
+        } else {
+            // Launch language server
+            MocaLanguageServer server = new MocaLanguageServer();
+            Launcher<LanguageClient> launcher = Launcher.createLauncher(server, LanguageClient.class, System.in,
+                    System.out);
 
-        server.connect(launcher.getRemoteProxy());
-        launcher.startListening();
+            server.connect(launcher.getRemoteProxy());
+            launcher.startListening();
+        }
     }
 
     private MocaServices services;

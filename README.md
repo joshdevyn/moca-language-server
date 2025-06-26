@@ -1,16 +1,128 @@
-# MOCA Language Server
+# MOCA GUI - Professional MOCA Development Environment
 
-Cross-platform Java based implementation of the [Language Server Protocol] for MOCA.
+A modern, enterprise-grade Java-based GUI application for MOCA development with advanced features and Language Server Protocol support.
 
+## Downloads
 
-## Requirements
+Get the latest release from the [Releases](https://github.com/your-repo/moca-language-server/releases) page:
 
-- Minimum Java Version: **1.8**
+### Windows Executable
+- **File**: `MOCA-GUI.exe`
+- **Size**: ~40-60 MB  
+- **Requirements**: None - includes embedded JVM
+- **Run**: Double-click the .exe file
 
+### Cross-Platform JAR
+- **File**: `moca-gui.jar`
+- **Size**: ~40-60 MB  
+- **Requirements**: Java 17+ installed
+- **Platforms**: Windows, macOS, Linux
+- **Run**: `java -jar moca-gui.jar`
+
+## Quick Start Guide
+
+1. **Download** the appropriate file for your system
+2. **Run** the application:
+   - Windows: Double-click `MOCA-GUI.exe`
+   - Other platforms: `java -jar moca-gui.jar`
+3. **Connect** to your MOCA server:
+   - Go to the "Connections" tab
+   - Enter your MOCA server details
+   - Click "Connect"
+4. **Start developing**:
+   - Switch to "Command & Script" tab
+   - Enter MOCA commands (default: `list warehouses`)
+   - Press F5 or click "Execute All"
 
 ## Features
 
-### Intellisense
+### Connection Management
+- Save multiple server profiles with secure credential storage
+- Quick connect to recent connections
+- Connection testing and validation
+- Import/export connection profiles
+- Favorite connections for quick access
+
+### Advanced Script Editor
+- MOCA syntax highlighting with professional color schemes
+- Code completion and IntelliSense for MOCA commands
+- Real-time syntax checking and error detection
+- Find/replace with regex support
+- Bookmarks and goto line functionality
+- Code folding for better organization
+
+### Command Execution
+- Execute single or multiple commands
+- Selective execution (run only selected text)
+- Multi-command support with separate result tabs
+- Command history and suggestions
+- Performance monitoring and execution time tracking
+
+### Results & Data Management
+- Tabbed results for multiple commands
+- Advanced data grid with sorting and filtering
+- Export results to Excel, CSV, JSON, XML
+- Copy data to clipboard in multiple formats
+- Result comparison tools
+- Search within results
+
+### Data Analysis & Visualization
+- Basic statistics for result data
+- Data validation and quality checks
+- Result comparison between executions
+- Performance metrics and monitoring
+
+### Professional Features
+- Layout persistence (save/restore window positions)
+- Comprehensive keyboard shortcuts
+- Context-sensitive help system
+- Audit logging and security features
+- Modern, clean user interface
+
+## Keyboard Shortcuts
+
+- **F5**: Execute all commands
+- **Ctrl+F5**: Execute selected text
+- **Ctrl+N**: New script
+- **Ctrl+O**: Open script
+- **Ctrl+S**: Save script
+- **Ctrl+F**: Find
+- **Ctrl+H**: Find and replace
+- **Ctrl+G**: Goto line
+- **F1**: Help
+- **F6**: Connect to server
+
+## Building from Source
+
+### Requirements
+- Java 17+ 
+- Maven 3.6+
+
+### Build Commands
+```bash
+git clone https://github.com/your-repo/moca-language-server
+cd moca-language-server
+mvn clean package
+```
+
+### Run Options
+```bash
+# GUI Application
+java -jar target/moca-gui.jar
+
+# Language Server Mode (for VS Code integration)
+java -jar target/moca-gui.jar --server
+```
+
+## Language Server Protocol Support
+
+### VS Code Integration
+- IntelliSense for MOCA, SQL, and Groovy
+- Go to definition and reference finding
+- Hover documentation for commands and functions
+- Signature help for function parameters
+
+### Language Features
 
 |                           | MOCA                              | SQL                                                                  | Groovy                                            |
 |---------------------------|-----------------------------------|----------------------------------------------------------------------|---------------------------------------------------|

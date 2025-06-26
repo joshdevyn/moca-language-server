@@ -1,6 +1,33 @@
 # Changelog
 https://semver.org/
 
+## 1.13.0 (June 26, 2025) - MOCA GUI Enterprise Release
+### New Features
+* **Complete GUI Transformation**: Converted from IDE to professional MOCA development environment
+* **Advanced Connection Management**: Multi-profile connection manager with secure credential storage
+* **Enterprise Script Editor**: Advanced script editing with code folding, bookmarks, and navigation
+* **Multi-Command Execution**: Execute multiple commands with separate result tabs
+* **Advanced Data Grid**: Export to Excel/CSV/JSON/XML, clipboard operations, search/filter
+* **Performance Monitoring**: Execution time tracking and memory usage monitoring
+* **Data Visualization**: Statistics, charting, and result comparison tools
+* **Layout Persistence**: Save/restore window positions and panel layouts
+* **Security Features**: Audit logging, encrypted credential storage, session management
+* **Comprehensive Help System**: Context-sensitive help and keyboard shortcut reference
+* **Professional UI**: Clean, modern interface with visual indicators
+* **Keyboard Shortcuts**: Full keyboard navigation and shortcuts
+* **GitHub Actions**: Automated build and release pipeline for .exe distribution
+
+### Technical Improvements
+* Removed dark theme issues and enforced clean, professional styling
+* Added visual indicators for all toggleable features
+* Implemented intelligent panel snapping and docking system
+* Enhanced error handling and user feedback
+* Added comprehensive logging and debugging features
+* Switched Windows builds from WiX Toolset to Launch4j for better compatibility
+
+### Breaking Changes
+* Updated main class structure and refactored package organization
+
 ## 1.12.25 (October 18, 2024)
 * Simplify SQL grammar
 * Trace outliner bug fix

@@ -25,7 +25,6 @@ import com.github.mrglassdanny.mocalanguageserver.util.lsp.PositionUtils;
 
 import org.antlr.v4.runtime.Token;
 import org.codehaus.groovy.control.messages.ExceptionMessage;
-import org.codehaus.groovy.control.messages.Message;
 import org.codehaus.groovy.control.messages.SyntaxErrorMessage;
 import org.codehaus.groovy.syntax.SyntaxException;
 import org.eclipse.lsp4j.Diagnostic;

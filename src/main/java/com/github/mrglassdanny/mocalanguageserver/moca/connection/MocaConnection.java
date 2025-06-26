@@ -24,6 +24,7 @@ public class MocaConnection {
     private boolean superUser;
     private String environmentVariablesXmlStr;
     private boolean approveUnsafeScripts;
+    private boolean traceRequested = false;
 
     public MocaConnection() {
         this.urlStr = null;
@@ -33,6 +34,7 @@ public class MocaConnection {
         this.superUser = false;
         this.environmentVariablesXmlStr = null;
         this.approveUnsafeScripts = false;
+        this.traceRequested = false;
     }
 
     private void login() throws IOException, MocaException, Exception {
@@ -152,10 +154,44 @@ public class MocaConnection {
     public final boolean needToApproveUnsafeScripts() {
         return this.approveUnsafeScripts;
     }
-
+    
     public boolean isValid() {
         return this.urlStr != null && this.userId != null && this.password != null
                 && this.environmentVariablesXmlStr != null;
+    }
+    
+    // Setter methods for GUI support
+    public void setUrl(String url) {
+        this.urlStr = url;
+    }
+    
+    public void setUserId(String userId) {
+        this.userId = userId;
+    }
+    
+    public void setPassword(String password) {
+        this.password = password;
+    }
+    
+    public void setApproveUnsafeScripts(boolean approve) {
+        this.approveUnsafeScripts = approve;
+    }
+    
+    public void setTraceRequested(boolean traceRequested) {
+        this.traceRequested = traceRequested;
+    }
+    
+    public boolean isTraceRequested() {
+        return this.traceRequested;
+    }
+    
+    // Connect method using instance variables
+    public void connect() throws Exception {
+        if (this.urlStr == null || this.userId == null || this.password == null) {
+            throw new IllegalStateException("URL, User ID, and Password must be set before connecting");
+        }
+        
+        connect(this.urlStr, this.userId, this.password, this.approveUnsafeScripts);
     }
 
     // Utilies.

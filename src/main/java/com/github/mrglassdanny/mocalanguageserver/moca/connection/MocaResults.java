@@ -12,6 +12,7 @@ public class MocaResults {
     // 2 - length
     private Object[][] metadata;
     private Object[][] values;
+    private String trace; // Add trace support
 
     private int getColumnIndex(String columnName) {
         for (int columnIdx = 0; columnIdx < this.metadata.length; columnIdx++) {
@@ -56,7 +57,27 @@ public class MocaResults {
         } else {
             return 0;
         }
-
+    }
+    
+    public String[] getColumnNames() {
+        if (this.metadata == null) {
+            return new String[0];
+        }
+        
+        String[] columnNames = new String[this.metadata.length];
+        for (int i = 0; i < this.metadata.length; i++) {
+            columnNames[i] = String.valueOf(this.metadata[i][0]);
+        }
+        return columnNames;
+    }
+    
+    // Trace information (if available)
+    public String getTrace() {
+        return trace;
+    }
+    
+    public void setTrace(String trace) {
+        this.trace = trace;
     }
 
     // Row index starts at 0!

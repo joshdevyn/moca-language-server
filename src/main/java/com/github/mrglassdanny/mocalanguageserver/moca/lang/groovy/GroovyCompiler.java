@@ -5,7 +5,6 @@ import java.util.ArrayList;
 
 import com.github.mrglassdanny.mocalanguageserver.MocaLanguageServer;
 
-import org.codehaus.groovy.GroovyBugError;
 import org.codehaus.groovy.control.CompilationFailedException;
 import org.codehaus.groovy.control.CompilerConfiguration;
 import org.codehaus.groovy.control.Phases;
