@@ -1,20 +1,20 @@
+![MOCA GUI](<MOCA GUI.png>)
+
 # MOCA GUI - Professional MOCA Development Environment
 
 A modern, enterprise-grade Java-based GUI application for MOCA development with advanced features and Language Server Protocol support.
 
 ## Downloads
 
-Get the latest release from the [Releases](https://github.com/your-repo/moca-language-server/releases) page:
+Get the latest release from the [Releases](https://github.com/joshdevyn/moca-language-server/releases) page:
 
 ### Windows Executable
 - **File**: `MOCA-GUI.exe`
-- **Size**: ~40-60 MB  
 - **Requirements**: None - includes embedded JVM
 - **Run**: Double-click the .exe file
 
 ### Cross-Platform JAR
 - **File**: `moca-gui.jar`
-- **Size**: ~40-60 MB  
 - **Requirements**: Java 17+ installed
 - **Platforms**: Windows, macOS, Linux
 - **Run**: `java -jar moca-gui.jar`
@@ -194,19 +194,6 @@ java -jar target/moca-gui.jar --server
 ## Clients
 
 - [vscode-moca-client]
-
-
-## Contribute
-
-Thinking about contributing to the MOCA Language Server?! If you think something is missing or could be improved, please open issues and pull requests. If you'd like to help this project grow, we'd love to have you! 
-
-Please refer to the [contribution guide] for specifics.
-
-
-## Contact
-
-- Danny Glass - mrglassdanny@gmail.com
-
 
 
 [Language Server Protocol]: https://langserver.org

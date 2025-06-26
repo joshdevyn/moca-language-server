@@ -217,6 +217,7 @@
                             <headerType>gui</headerType>
                             <outfile>target/MOCA-GUI.exe</outfile>
                             <jar>target/moca-gui.jar</jar>
+                            <icon>moca_gui.ico</icon>
                             <errTitle>MOCA GUI</errTitle>
                             <classPath>
                                 <mainClass>${gui.main.class}</mainClass>

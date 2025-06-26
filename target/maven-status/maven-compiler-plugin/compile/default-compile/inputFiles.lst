@@ -1,122 +1,122 @@
-C:\Users\Y9Z6026\OneDrive - US Foods\Documents\GitHub\moca-language-server\src\main\java\com\github\mrglassdanny\mocalanguageserver\moca\lang\antlr\MocaSqlLexer.java
-C:\Users\Y9Z6026\OneDrive - US Foods\Documents\GitHub\moca-language-server\src\main\java\com\github\mrglassdanny\mocalanguageserver\moca\lang\groovy\GroovyCompiler.java
-C:\Users\Y9Z6026\OneDrive - US Foods\Documents\GitHub\moca-language-server\src\main\java\com\github\mrglassdanny\mocalanguageserver\moca\cache\MocaCommand.java
-C:\Users\Y9Z6026\OneDrive - US Foods\Documents\GitHub\moca-language-server\src\main\java\com\github\mrglassdanny\mocalanguageserver\services\command\response\MocaCommandLookupResponse.java
-C:\Users\Y9Z6026\OneDrive - US Foods\Documents\GitHub\moca-language-server\src\main\java\com\github\joshdevyn\mocaide\connection\ConnectionProfile.java
-C:\Users\Y9Z6026\OneDrive - US Foods\Documents\GitHub\moca-language-server\src\main\java\com\github\joshdevyn\mocaide\gui\MocaCommandPanel.java
-C:\Users\Y9Z6026\OneDrive - US Foods\Documents\GitHub\moca-language-server\src\main\java\com\github\joshdevyn\mocaide\gui\editor\MocaTokenMakerFactory.java
-C:\Users\Y9Z6026\OneDrive - US Foods\Documents\GitHub\moca-language-server\src\main\java\com\github\mrglassdanny\mocalanguageserver\services\command\response\LoadCacheResponse.java
-C:\Users\Y9Z6026\OneDrive - US Foods\Documents\GitHub\moca-language-server\src\main\java\com\github\mrglassdanny\mocalanguageserver\services\format\MocaCompilationServiceDocumentOnTypeFormattingProvider.java
-C:\Users\Y9Z6026\OneDrive - US Foods\Documents\GitHub\moca-language-server\src\main\java\com\github\joshdevyn\mocaide\gui\editor\AdvancedScriptEditor.java
-C:\Users\Y9Z6026\OneDrive - US Foods\Documents\GitHub\moca-language-server\src\main\java\com\github\mrglassdanny\mocalanguageserver\moca\trace\exceptions\InvalidMocaTraceFileException.java
-C:\Users\Y9Z6026\OneDrive - US Foods\Documents\GitHub\moca-language-server\src\main\java\com\github\mrglassdanny\mocalanguageserver\services\command\response\MocaConnectionResponse.java
-C:\Users\Y9Z6026\OneDrive - US Foods\Documents\GitHub\moca-language-server\src\main\java\com\github\mrglassdanny\mocalanguageserver\moca\lang\groovy\util\GroovyLanguageUtils.java
-C:\Users\Y9Z6026\OneDrive - US Foods\Documents\GitHub\moca-language-server\src\main\java\com\github\joshdevyn\mocaide\gui\editor\MocaEditor.java
-C:\Users\Y9Z6026\OneDrive - US Foods\Documents\GitHub\moca-language-server\src\main\java\com\github\mrglassdanny\mocalanguageserver\moca\lang\ast\MocaSyntaxErrorListener.java
-C:\Users\Y9Z6026\OneDrive - US Foods\Documents\GitHub\moca-language-server\src\main\java\com\github\mrglassdanny\mocalanguageserver\moca\cache\MocaTrigger.java
-C:\Users\Y9Z6026\OneDrive - US Foods\Documents\GitHub\moca-language-server\src\main\java\com\github\mrglassdanny\mocalanguageserver\moca\connection\MocaConnection.java
-C:\Users\Y9Z6026\OneDrive - US Foods\Documents\GitHub\moca-language-server\src\main\java\com\github\mrglassdanny\mocalanguageserver\moca\lang\groovy\GroovyCompilationUnit.java
-C:\Users\Y9Z6026\OneDrive - US Foods\Documents\GitHub\moca-language-server\src\main\java\com\github\mrglassdanny\mocalanguageserver\moca\trace\MocaTraceOutline.java
-C:\Users\Y9Z6026\OneDrive - US Foods\Documents\GitHub\moca-language-server\src\main\java\com\github\mrglassdanny\mocalanguageserver\moca\lang\format\MocaFormatter.java
-C:\Users\Y9Z6026\OneDrive - US Foods\Documents\GitHub\moca-language-server\src\main\java\com\github\mrglassdanny\mocalanguageserver\moca\cache\mocasql\TableColumn.java
-C:\Users\Y9Z6026\OneDrive - US Foods\Documents\GitHub\moca-language-server\src\main\java\com\github\mrglassdanny\mocalanguageserver\moca\connection\exceptions\MocaException.java
-C:\Users\Y9Z6026\OneDrive - US Foods\Documents\GitHub\moca-language-server\src\main\java\com\github\mrglassdanny\mocalanguageserver\services\hover\MocaTraceOutlineServiceHoverProvider.java
-C:\Users\Y9Z6026\OneDrive - US Foods\Documents\GitHub\moca-language-server\src\main\java\com\github\mrglassdanny\mocalanguageserver\util\lsp\StringDifferenceUtils.java
-C:\Users\Y9Z6026\OneDrive - US Foods\Documents\GitHub\moca-language-server\src\main\java\com\github\mrglassdanny\mocalanguageserver\moca\lang\groovy\util\GroovyNodeToStringUtils.java
-C:\Users\Y9Z6026\OneDrive - US Foods\Documents\GitHub\moca-language-server\src\main\java\com\github\joshdevyn\mocaide\gui\editor\MocaTokenMaker.java
-C:\Users\Y9Z6026\OneDrive - US Foods\Documents\GitHub\moca-language-server\src\main\java\com\github\mrglassdanny\mocalanguageserver\moca\cache\mocasql\TableIndex.java
-C:\Users\Y9Z6026\OneDrive - US Foods\Documents\GitHub\moca-language-server\src\main\java\com\github\mrglassdanny\mocalanguageserver\moca\cache\MocaFunction.java
-C:\Users\Y9Z6026\OneDrive - US Foods\Documents\GitHub\moca-language-server\src\main\java\com\github\mrglassdanny\mocalanguageserver\moca\cache\mocasql\MocaSqlFunction.java
-C:\Users\Y9Z6026\OneDrive - US Foods\Documents\GitHub\moca-language-server\src\main\java\com\github\joshdevyn\mocaide\connection\ConnectionManager.java
-C:\Users\Y9Z6026\OneDrive - US Foods\Documents\GitHub\moca-language-server\src\main\java\com\github\mrglassdanny\mocalanguageserver\services\MocaServices.java
-C:\Users\Y9Z6026\OneDrive - US Foods\Documents\GitHub\moca-language-server\src\main\java\com\github\mrglassdanny\mocalanguageserver\services\command\request\MocaConnectionRequest.java
-C:\Users\Y9Z6026\OneDrive - US Foods\Documents\GitHub\moca-language-server\src\main\java\com\github\mrglassdanny\mocalanguageserver\services\command\response\MocaLanguageServerActivateResponse.java
-C:\Users\Y9Z6026\OneDrive - US Foods\Documents\GitHub\moca-language-server\src\main\java\com\github\mrglassdanny\mocalanguageserver\moca\lang\antlrutil\CaseChangingCharStream.java
-C:\Users\Y9Z6026\OneDrive - US Foods\Documents\GitHub\moca-language-server\src\main\java\com\github\mrglassdanny\mocalanguageserver\moca\cache\MocaCache.java
-C:\Users\Y9Z6026\OneDrive - US Foods\Documents\GitHub\moca-language-server\src\main\java\com\github\joshdevyn\mocaide\gui\editor\FindReplaceDialog.java
-C:\Users\Y9Z6026\OneDrive - US Foods\Documents\GitHub\moca-language-server\src\main\java\com\github\joshdevyn\mocaide\gui\MocaLanguageServerPanel.java
-C:\Users\Y9Z6026\OneDrive - US Foods\Documents\GitHub\moca-language-server\src\main\java\com\github\joshdevyn\mocaide\gui\CommandExecutionPanel.java
-C:\Users\Y9Z6026\OneDrive - US Foods\Documents\GitHub\moca-language-server\src\main\java\com\github\mrglassdanny\mocalanguageserver\services\command\response\MocaCSVResultsResponse.java
-C:\Users\Y9Z6026\OneDrive - US Foods\Documents\GitHub\moca-language-server\src\main\java\com\github\mrglassdanny\mocalanguageserver\moca\connection\MocaResults.java
-C:\Users\Y9Z6026\OneDrive - US Foods\Documents\GitHub\moca-language-server\src\main\java\com\github\mrglassdanny\mocalanguageserver\moca\lang\util\MocaTokenUtils.java
-C:\Users\Y9Z6026\OneDrive - US Foods\Documents\GitHub\moca-language-server\src\main\java\com\github\mrglassdanny\mocalanguageserver\services\command\ExecuteCommandProvider.java
-C:\Users\Y9Z6026\OneDrive - US Foods\Documents\GitHub\moca-language-server\src\main\java\com\github\joshdevyn\mocaide\util\ExportUtil.java
-C:\Users\Y9Z6026\OneDrive - US Foods\Documents\GitHub\moca-language-server\src\main\java\com\github\mrglassdanny\mocalanguageserver\moca\connection\exceptions\UnsupportedConnectionTypeException.java
-C:\Users\Y9Z6026\OneDrive - US Foods\Documents\GitHub\moca-language-server\src\main\java\com\github\mrglassdanny\mocalanguageserver\services\definition\MocaCompilationServiceDefinitionProvider.java
-C:\Users\Y9Z6026\OneDrive - US Foods\Documents\GitHub\moca-language-server\src\main\java\com\github\joshdevyn\mocaide\util\LayoutManager.java
-C:\Users\Y9Z6026\OneDrive - US Foods\Documents\GitHub\moca-language-server\src\main\java\com\github\mrglassdanny\mocalanguageserver\services\signature\MocaCompilationServiceSignatureHelpProvider.java
-C:\Users\Y9Z6026\OneDrive - US Foods\Documents\GitHub\moca-language-server\src\main\java\com\github\joshdevyn\mocaide\gui\MocaConnectionPanel.java
-C:\Users\Y9Z6026\OneDrive - US Foods\Documents\GitHub\moca-language-server\src\main\java\com\github\mrglassdanny\mocalanguageserver\moca\lang\util\MocaLanguageUtils.java
-C:\Users\Y9Z6026\OneDrive - US Foods\Documents\GitHub\moca-language-server\src\main\java\com\github\mrglassdanny\mocalanguageserver\services\definition\MocaTraceOutlineServiceDefinitionProvider.java
-C:\Users\Y9Z6026\OneDrive - US Foods\Documents\GitHub\moca-language-server\src\main\java\com\github\mrglassdanny\mocalanguageserver\moca\cache\mocasql\Table.java
-C:\Users\Y9Z6026\OneDrive - US Foods\Documents\GitHub\moca-language-server\src\main\java\com\github\mrglassdanny\mocalanguageserver\services\format\MocaCompilationServiceDocumentFormattingProvider.java
-C:\Users\Y9Z6026\OneDrive - US Foods\Documents\GitHub\moca-language-server\src\main\java\com\github\joshdevyn\mocaide\gui\help\HelpSystem.java
-C:\Users\Y9Z6026\OneDrive - US Foods\Documents\GitHub\moca-language-server\src\main\java\com\github\mrglassdanny\mocalanguageserver\moca\trace\MocaTraceOutlineOptions.java
-C:\Users\Y9Z6026\OneDrive - US Foods\Documents\GitHub\moca-language-server\src\main\java\com\github\mrglassdanny\mocalanguageserver\moca\trace\MocaTraceOutliningResult.java
-C:\Users\Y9Z6026\OneDrive - US Foods\Documents\GitHub\moca-language-server\src\main\java\com\github\mrglassdanny\mocalanguageserver\moca\trace\MocaTraceOutliner.java
-C:\Users\Y9Z6026\OneDrive - US Foods\Documents\GitHub\moca-language-server\src\main\java\com\github\joshdevyn\mocaide\security\SecurityManager.java
-C:\Users\Y9Z6026\OneDrive - US Foods\Documents\GitHub\moca-language-server\src\main\java\com\github\mrglassdanny\mocalanguageserver\moca\cache\MocaCommandArgument.java
-C:\Users\Y9Z6026\OneDrive - US Foods\Documents\GitHub\moca-language-server\src\main\java\com\github\mrglassdanny\mocalanguageserver\services\command\request\LoadCacheRequest.java
-C:\Users\Y9Z6026\OneDrive - US Foods\Documents\GitHub\moca-language-server\src\main\java\com\github\mrglassdanny\mocalanguageserver\moca\lang\mocasql\util\MocaSqlTokenUtils.java
-C:\Users\Y9Z6026\OneDrive - US Foods\Documents\GitHub\moca-language-server\src\main\java\com\github\mrglassdanny\mocalanguageserver\services\command\request\MocaCSVResultsRequest.java
-C:\Users\Y9Z6026\OneDrive - US Foods\Documents\GitHub\moca-language-server\src\main\java\com\github\mrglassdanny\mocalanguageserver\services\hover\MocaCompilationServiceHoverProvider.java
-C:\Users\Y9Z6026\OneDrive - US Foods\Documents\GitHub\moca-language-server\src\main\java\com\github\joshdevyn\mocaide\gui\visualization\DataVisualizationPanel.java
-C:\Users\Y9Z6026\OneDrive - US Foods\Documents\GitHub\moca-language-server\src\main\java\com\github\joshdevyn\mocaide\gui\MocaGuiWindow.java
-C:\Users\Y9Z6026\OneDrive - US Foods\Documents\GitHub\moca-language-server\src\main\java\com\github\mrglassdanny\mocalanguageserver\moca\lang\antlr\MocaSqlParser.java
-C:\Users\Y9Z6026\OneDrive - US Foods\Documents\GitHub\moca-language-server\src\main\java\com\github\mrglassdanny\mocalanguageserver\services\command\request\MocaCommandLookupRequest.java
-C:\Users\Y9Z6026\OneDrive - US Foods\Documents\GitHub\moca-language-server\src\main\java\com\github\mrglassdanny\mocalanguageserver\services\command\request\MocaTraceRequest.java
-C:\Users\Y9Z6026\OneDrive - US Foods\Documents\GitHub\moca-language-server\src\main\java\com\github\joshdevyn\mocaide\util\ClipboardUtil.java
-C:\Users\Y9Z6026\OneDrive - US Foods\Documents\GitHub\moca-language-server\src\main\java\com\github\mrglassdanny\mocalanguageserver\moca\lang\MocaLanguageContext.java
-C:\Users\Y9Z6026\OneDrive - US Foods\Documents\GitHub\moca-language-server\src\main\java\com\github\mrglassdanny\mocalanguageserver\moca\lang\MocaCompiler.java
-C:\Users\Y9Z6026\OneDrive - US Foods\Documents\GitHub\moca-language-server\src\main\java\com\github\mrglassdanny\mocalanguageserver\services\command\request\MocaLanguageServerOptionsRequest.java
-C:\Users\Y9Z6026\OneDrive - US Foods\Documents\GitHub\moca-language-server\src\main\java\com\github\mrglassdanny\mocalanguageserver\services\highlight\MocaTraceOutlineServiceSemanticHighlightingManager.java
-C:\Users\Y9Z6026\OneDrive - US Foods\Documents\GitHub\moca-language-server\src\main\java\com\github\mrglassdanny\mocalanguageserver\services\completion\MocaCompilationServiceCompletionProvider.java
-C:\Users\Y9Z6026\OneDrive - US Foods\Documents\GitHub\moca-language-server\src\main\java\com\github\mrglassdanny\mocalanguageserver\services\highlight\MocaCompilationServiceSemanticHighlightingManager.java
-C:\Users\Y9Z6026\OneDrive - US Foods\Documents\GitHub\moca-language-server\src\main\java\com\github\joshdevyn\mocaide\gui\results\ResultComparisonDialog.java
-C:\Users\Y9Z6026\OneDrive - US Foods\Documents\GitHub\moca-language-server\src\main\java\com\github\mrglassdanny\mocalanguageserver\moca\lang\antlr\MocaParser.java
-C:\Users\Y9Z6026\OneDrive - US Foods\Documents\GitHub\moca-language-server\src\main\java\com\github\joshdevyn\mocaide\gui\MocaEditorPanel.java
-C:\Users\Y9Z6026\OneDrive - US Foods\Documents\GitHub\moca-language-server\src\main\java\com\github\mrglassdanny\mocalanguageserver\MocaLanguageServerOptions.java
-C:\Users\Y9Z6026\OneDrive - US Foods\Documents\GitHub\moca-language-server\src\main\java\com\github\joshdevyn\mocaide\gui\connection\ConnectionManagerPanel.java
-C:\Users\Y9Z6026\OneDrive - US Foods\Documents\GitHub\moca-language-server\src\main\java\com\github\mrglassdanny\mocalanguageserver\services\command\request\MocaResultsRequest.java
-C:\Users\Y9Z6026\OneDrive - US Foods\Documents\GitHub\moca-language-server\src\main\java\com\github\mrglassdanny\mocalanguageserver\services\command\response\MocaLanguageServerOptionsResponse.java
-C:\Users\Y9Z6026\OneDrive - US Foods\Documents\GitHub\moca-language-server\src\main\java\com\github\mrglassdanny\mocalanguageserver\moca\lang\antlr\MocaBaseListener.java
-C:\Users\Y9Z6026\OneDrive - US Foods\Documents\GitHub\moca-language-server\src\main\java\com\github\mrglassdanny\mocalanguageserver\moca\lang\antlr\MocaSqlListener.java
-C:\Users\Y9Z6026\OneDrive - US Foods\Documents\GitHub\moca-language-server\src\main\java\com\github\mrglassdanny\mocalanguageserver\moca\lang\antlr\MocaLexer.java
-C:\Users\Y9Z6026\OneDrive - US Foods\Documents\GitHub\moca-language-server\src\main\java\com\github\mrglassdanny\mocalanguageserver\moca\lang\mocasql\format\MocaSqlFormatter.java
-C:\Users\Y9Z6026\OneDrive - US Foods\Documents\GitHub\moca-language-server\src\main\java\com\github\mrglassdanny\mocalanguageserver\moca\lang\ast\MocaParseTreeListener.java
-C:\Users\Y9Z6026\OneDrive - US Foods\Documents\GitHub\moca-language-server\src\main\java\com\github\joshdevyn\mocaide\MocaGuiApplication.java
-C:\Users\Y9Z6026\OneDrive - US Foods\Documents\GitHub\moca-language-server\src\main\java\com\github\mrglassdanny\mocalanguageserver\moca\lang\mocasql\ast\MocaSqlParseTreeListener.java
-C:\Users\Y9Z6026\OneDrive - US Foods\Documents\GitHub\moca-language-server\src\main\java\com\github\mrglassdanny\mocalanguageserver\moca\lang\antlr\MocaSqlBaseListener.java
-C:\Users\Y9Z6026\OneDrive - US Foods\Documents\GitHub\moca-language-server\src\main\java\com\github\mrglassdanny\mocalanguageserver\services\diagnostic\MocaCompilationServiceDiagnosticManager.java
-C:\Users\Y9Z6026\OneDrive - US Foods\Documents\GitHub\moca-language-server\src\main\java\com\github\mrglassdanny\mocalanguageserver\moca\lang\mocasql\MocaSqlCompiler.java
-C:\Users\Y9Z6026\OneDrive - US Foods\Documents\GitHub\moca-language-server\src\main\java\com\github\mrglassdanny\mocalanguageserver\services\command\response\OpenMocaTraceOutlineResponse.java
-C:\Users\Y9Z6026\OneDrive - US Foods\Documents\GitHub\moca-language-server\src\main\java\com\github\joshdevyn\mocaide\gui\connection\ConnectionEditDialog.java
-C:\Users\Y9Z6026\OneDrive - US Foods\Documents\GitHub\moca-language-server\src\main\java\com\github\mrglassdanny\mocalanguageserver\moca\lang\antlr\MocaListener.java
-C:\Users\Y9Z6026\OneDrive - US Foods\Documents\GitHub\moca-language-server\src\main\java\com\github\mrglassdanny\mocalanguageserver\util\lsp\RangeUtils.java
-C:\Users\Y9Z6026\OneDrive - US Foods\Documents\GitHub\moca-language-server\src\main\java\com\github\mrglassdanny\mocalanguageserver\util\os\OSUtils.java
-C:\Users\Y9Z6026\OneDrive - US Foods\Documents\GitHub\moca-language-server\src\main\java\com\github\mrglassdanny\mocalanguageserver\MocaLauncher.java
-C:\Users\Y9Z6026\OneDrive - US Foods\Documents\GitHub\moca-language-server\src\main\java\com\github\mrglassdanny\mocalanguageserver\moca\lang\MocaCompilationResult.java
-C:\Users\Y9Z6026\OneDrive - US Foods\Documents\GitHub\moca-language-server\src\main\java\com\github\mrglassdanny\mocalanguageserver\services\reference\MocaCompilationServiceReferencesProvider.java
-C:\Users\Y9Z6026\OneDrive - US Foods\Documents\GitHub\moca-language-server\src\main\java\com\github\mrglassdanny\mocalanguageserver\moca\lang\groovy\GroovyErrorCollector.java
-C:\Users\Y9Z6026\OneDrive - US Foods\Documents\GitHub\moca-language-server\src\main\java\com\github\joshdevyn\mocaide\gui\connection\ConnectionDetailsPanel.java
-C:\Users\Y9Z6026\OneDrive - US Foods\Documents\GitHub\moca-language-server\src\main\java\com\github\mrglassdanny\mocalanguageserver\moca\lang\groovy\util\GroovyASTUtils.java
-C:\Users\Y9Z6026\OneDrive - US Foods\Documents\GitHub\moca-language-server\src\main\java\com\github\mrglassdanny\mocalanguageserver\moca\lang\groovy\ast\GroovyASTNodeVisitor.java
-C:\Users\Y9Z6026\OneDrive - US Foods\Documents\GitHub\moca-language-server\src\main\java\com\github\joshdevyn\mocaide\util\PanelManager.java
-C:\Users\Y9Z6026\OneDrive - US Foods\Documents\GitHub\moca-language-server\src\main\java\com\github\joshdevyn\mocaide\gui\results\ResultsPanel.java
-C:\Users\Y9Z6026\OneDrive - US Foods\Documents\GitHub\moca-language-server\src\main\java\com\github\mrglassdanny\mocalanguageserver\services\command\response\MocaResultsResponse.java
-C:\Users\Y9Z6026\OneDrive - US Foods\Documents\GitHub\moca-language-server\src\main\java\com\github\mrglassdanny\mocalanguageserver\services\command\response\MocaTraceResponse.java
-C:\Users\Y9Z6026\OneDrive - US Foods\Documents\GitHub\moca-language-server\src\main\java\com\github\mrglassdanny\mocalanguageserver\moca\cache\mocasql\MocaSqlCache.java
-C:\Users\Y9Z6026\OneDrive - US Foods\Documents\GitHub\moca-language-server\src\main\java\com\github\mrglassdanny\mocalanguageserver\util\lsp\PositionUtils.java
-C:\Users\Y9Z6026\OneDrive - US Foods\Documents\GitHub\moca-language-server\src\main\java\com\github\mrglassdanny\mocalanguageserver\MocaLanguageServer.java
-C:\Users\Y9Z6026\OneDrive - US Foods\Documents\GitHub\moca-language-server\src\main\java\com\github\mrglassdanny\mocalanguageserver\moca\lang\mocasql\ast\MocaSqlSyntaxError.java
-C:\Users\Y9Z6026\OneDrive - US Foods\Documents\GitHub\moca-language-server\src\main\java\com\github\joshdevyn\mocaide\util\PerformanceMonitor.java
-C:\Users\Y9Z6026\OneDrive - US Foods\Documents\GitHub\moca-language-server\src\main\java\com\github\mrglassdanny\mocalanguageserver\moca\lang\groovy\GroovyCompilationResult.java
-C:\Users\Y9Z6026\OneDrive - US Foods\Documents\GitHub\moca-language-server\src\main\java\com\github\mrglassdanny\mocalanguageserver\moca\lang\MocaEmbeddedLanguageRange.java
-C:\Users\Y9Z6026\OneDrive - US Foods\Documents\GitHub\moca-language-server\src\main\java\com\github\mrglassdanny\mocalanguageserver\services\FileManager.java
-C:\Users\Y9Z6026\OneDrive - US Foods\Documents\GitHub\moca-language-server\src\main\java\com\github\mrglassdanny\mocalanguageserver\moca\lang\mocasql\util\MocaSqlLanguageUtils.java
-C:\Users\Y9Z6026\OneDrive - US Foods\Documents\GitHub\moca-language-server\src\main\java\com\github\mrglassdanny\mocalanguageserver\services\command\request\MocaLanguageServerActivateRequest.java
-C:\Users\Y9Z6026\OneDrive - US Foods\Documents\GitHub\moca-language-server\src\main\java\com\github\mrglassdanny\mocalanguageserver\moca\lang\mocasql\MocaSqlCompilationResult.java
-C:\Users\Y9Z6026\OneDrive - US Foods\Documents\GitHub\moca-language-server\src\main\java\com\github\mrglassdanny\mocalanguageserver\moca\trace\MocaTraceStackFrame.java
-C:\Users\Y9Z6026\OneDrive - US Foods\Documents\GitHub\moca-language-server\src\main\java\com\github\mrglassdanny\mocalanguageserver\moca\lang\ast\MocaSyntaxError.java
-C:\Users\Y9Z6026\OneDrive - US Foods\Documents\GitHub\moca-language-server\src\main\java\com\github\mrglassdanny\mocalanguageserver\services\command\request\OpenMocaTraceOutlineRequest.java
-C:\Users\Y9Z6026\OneDrive - US Foods\Documents\GitHub\moca-language-server\src\main\java\com\github\mrglassdanny\mocalanguageserver\moca\lang\mocasql\ast\MocaSqlSyntaxErrorListener.java
+C:\moca-language-server\src\main\java\com\github\joshdevyn\mocaide\util\ClipboardUtil.java
+C:\moca-language-server\src\main\java\com\github\mrglassdanny\mocalanguageserver\services\format\MocaCompilationServiceDocumentOnTypeFormattingProvider.java
+C:\moca-language-server\src\main\java\com\github\mrglassdanny\mocalanguageserver\moca\lang\ast\MocaSyntaxError.java
+C:\moca-language-server\src\main\java\com\github\mrglassdanny\mocalanguageserver\moca\lang\mocasql\ast\MocaSqlSyntaxError.java
+C:\moca-language-server\src\main\java\com\github\mrglassdanny\mocalanguageserver\util\lsp\RangeUtils.java
+C:\moca-language-server\src\main\java\com\github\mrglassdanny\mocalanguageserver\moca\lang\antlr\MocaBaseListener.java
+C:\moca-language-server\src\main\java\com\github\joshdevyn\mocaide\connection\ConnectionProfile.java
+C:\moca-language-server\src\main\java\com\github\joshdevyn\mocaide\gui\editor\FindReplaceDialog.java
+C:\moca-language-server\src\main\java\com\github\mrglassdanny\mocalanguageserver\moca\lang\MocaCompiler.java
+C:\moca-language-server\src\main\java\com\github\mrglassdanny\mocalanguageserver\services\command\response\MocaResultsResponse.java
+C:\moca-language-server\src\main\java\com\github\joshdevyn\mocaide\gui\editor\MocaEditor.java
+C:\moca-language-server\src\main\java\com\github\mrglassdanny\mocalanguageserver\moca\lang\groovy\GroovyCompilationResult.java
+C:\moca-language-server\src\main\java\com\github\mrglassdanny\mocalanguageserver\services\command\request\MocaLanguageServerActivateRequest.java
+C:\moca-language-server\src\main\java\com\github\mrglassdanny\mocalanguageserver\services\command\ExecuteCommandProvider.java
+C:\moca-language-server\src\main\java\com\github\mrglassdanny\mocalanguageserver\moca\lang\antlr\MocaSqlLexer.java
+C:\moca-language-server\src\main\java\com\github\mrglassdanny\mocalanguageserver\moca\lang\groovy\util\GroovyASTUtils.java
+C:\moca-language-server\src\main\java\com\github\mrglassdanny\mocalanguageserver\services\highlight\MocaTraceOutlineServiceSemanticHighlightingManager.java
+C:\moca-language-server\src\main\java\com\github\mrglassdanny\mocalanguageserver\services\command\request\MocaTraceRequest.java
+C:\moca-language-server\src\main\java\com\github\joshdevyn\mocaide\connection\ConnectionManager.java
+C:\moca-language-server\src\main\java\com\github\mrglassdanny\mocalanguageserver\services\command\request\MocaCommandLookupRequest.java
+C:\moca-language-server\src\main\java\com\github\mrglassdanny\mocalanguageserver\services\command\response\MocaConnectionResponse.java
+C:\moca-language-server\src\main\java\com\github\mrglassdanny\mocalanguageserver\moca\lang\antlrutil\CaseChangingCharStream.java
+C:\moca-language-server\src\main\java\com\github\mrglassdanny\mocalanguageserver\services\command\request\MocaLanguageServerOptionsRequest.java
+C:\moca-language-server\src\main\java\com\github\mrglassdanny\mocalanguageserver\moca\connection\exceptions\MocaException.java
+C:\moca-language-server\src\main\java\com\github\mrglassdanny\mocalanguageserver\services\reference\MocaCompilationServiceReferencesProvider.java
+C:\moca-language-server\src\main\java\com\github\mrglassdanny\mocalanguageserver\services\command\request\LoadCacheRequest.java
+C:\moca-language-server\src\main\java\com\github\mrglassdanny\mocalanguageserver\services\MocaServices.java
+C:\moca-language-server\src\main\java\com\github\mrglassdanny\mocalanguageserver\services\signature\MocaCompilationServiceSignatureHelpProvider.java
+C:\moca-language-server\src\main\java\com\github\mrglassdanny\mocalanguageserver\services\command\response\MocaCommandLookupResponse.java
+C:\moca-language-server\src\main\java\com\github\joshdevyn\mocaide\util\ExportUtil.java
+C:\moca-language-server\src\main\java\com\github\mrglassdanny\mocalanguageserver\moca\lang\mocasql\MocaSqlCompilationResult.java
+C:\moca-language-server\src\main\java\com\github\mrglassdanny\mocalanguageserver\services\command\response\LoadCacheResponse.java
+C:\moca-language-server\src\main\java\com\github\mrglassdanny\mocalanguageserver\services\diagnostic\MocaCompilationServiceDiagnosticManager.java
+C:\moca-language-server\src\main\java\com\github\joshdevyn\mocaide\util\LayoutManager.java
+C:\moca-language-server\src\main\java\com\github\mrglassdanny\mocalanguageserver\moca\trace\exceptions\InvalidMocaTraceFileException.java
+C:\moca-language-server\src\main\java\com\github\mrglassdanny\mocalanguageserver\services\command\request\OpenMocaTraceOutlineRequest.java
+C:\moca-language-server\src\main\java\com\github\mrglassdanny\mocalanguageserver\moca\lang\mocasql\ast\MocaSqlParseTreeListener.java
+C:\moca-language-server\src\main\java\com\github\mrglassdanny\mocalanguageserver\services\command\request\MocaConnectionRequest.java
+C:\moca-language-server\src\main\java\com\github\mrglassdanny\mocalanguageserver\moca\lang\mocasql\ast\MocaSqlSyntaxErrorListener.java
+C:\moca-language-server\src\main\java\com\github\mrglassdanny\mocalanguageserver\moca\cache\MocaCommandArgument.java
+C:\moca-language-server\src\main\java\com\github\mrglassdanny\mocalanguageserver\services\highlight\MocaCompilationServiceSemanticHighlightingManager.java
+C:\moca-language-server\src\main\java\com\github\mrglassdanny\mocalanguageserver\moca\cache\MocaFunction.java
+C:\moca-language-server\src\main\java\com\github\joshdevyn\mocaide\MocaGuiApplication.java
+C:\moca-language-server\src\main\java\com\github\mrglassdanny\mocalanguageserver\moca\connection\exceptions\UnsupportedConnectionTypeException.java
+C:\moca-language-server\src\main\java\com\github\mrglassdanny\mocalanguageserver\moca\trace\MocaTraceOutliningResult.java
+C:\moca-language-server\src\main\java\com\github\mrglassdanny\mocalanguageserver\moca\cache\MocaTrigger.java
+C:\moca-language-server\src\main\java\com\github\joshdevyn\mocaide\gui\MocaLanguageServerPanel.java
+C:\moca-language-server\src\main\java\com\github\joshdevyn\mocaide\gui\MocaCommandPanel.java
+C:\moca-language-server\src\main\java\com\github\mrglassdanny\mocalanguageserver\moca\connection\MocaConnection.java
+C:\moca-language-server\src\main\java\com\github\mrglassdanny\mocalanguageserver\moca\lang\groovy\util\GroovyNodeToStringUtils.java
+C:\moca-language-server\src\main\java\com\github\joshdevyn\mocaide\gui\results\ResultsPanel.java
+C:\moca-language-server\src\main\java\com\github\mrglassdanny\mocalanguageserver\services\completion\MocaCompilationServiceCompletionProvider.java
+C:\moca-language-server\src\main\java\com\github\joshdevyn\mocaide\gui\MocaConnectionPanel.java
+C:\moca-language-server\src\main\java\com\github\joshdevyn\mocaide\util\PanelManager.java
+C:\moca-language-server\src\main\java\com\github\mrglassdanny\mocalanguageserver\moca\cache\MocaCache.java
+C:\moca-language-server\src\main\java\com\github\mrglassdanny\mocalanguageserver\moca\lang\format\MocaFormatter.java
+C:\moca-language-server\src\main\java\com\github\mrglassdanny\mocalanguageserver\util\os\OSUtils.java
+C:\moca-language-server\src\main\java\com\github\mrglassdanny\mocalanguageserver\moca\cache\mocasql\TableColumn.java
+C:\moca-language-server\src\main\java\com\github\mrglassdanny\mocalanguageserver\moca\lang\antlr\MocaListener.java
+C:\moca-language-server\src\main\java\com\github\joshdevyn\mocaide\gui\connection\ConnectionManagerPanel.java
+C:\moca-language-server\src\main\java\com\github\mrglassdanny\mocalanguageserver\moca\lang\antlr\MocaParser.java
+C:\moca-language-server\src\main\java\com\github\mrglassdanny\mocalanguageserver\MocaLauncher.java
+C:\moca-language-server\src\main\java\com\github\mrglassdanny\mocalanguageserver\services\definition\MocaTraceOutlineServiceDefinitionProvider.java
+C:\moca-language-server\src\main\java\com\github\mrglassdanny\mocalanguageserver\moca\connection\MocaResults.java
+C:\moca-language-server\src\main\java\com\github\mrglassdanny\mocalanguageserver\moca\lang\mocasql\format\MocaSqlFormatter.java
+C:\moca-language-server\src\main\java\com\github\mrglassdanny\mocalanguageserver\moca\cache\MocaCommand.java
+C:\moca-language-server\src\main\java\com\github\mrglassdanny\mocalanguageserver\moca\lang\ast\MocaParseTreeListener.java
+C:\moca-language-server\src\main\java\com\github\mrglassdanny\mocalanguageserver\moca\lang\ast\MocaSyntaxErrorListener.java
+C:\moca-language-server\src\main\java\com\github\mrglassdanny\mocalanguageserver\moca\lang\util\MocaTokenUtils.java
+C:\moca-language-server\src\main\java\com\github\mrglassdanny\mocalanguageserver\moca\trace\MocaTraceOutlineOptions.java
+C:\moca-language-server\src\main\java\com\github\mrglassdanny\mocalanguageserver\moca\trace\MocaTraceStackFrame.java
+C:\moca-language-server\src\main\java\com\github\mrglassdanny\mocalanguageserver\services\command\request\MocaCSVResultsRequest.java
+C:\moca-language-server\src\main\java\com\github\mrglassdanny\mocalanguageserver\moca\lang\antlr\MocaSqlParser.java
+C:\moca-language-server\src\main\java\com\github\mrglassdanny\mocalanguageserver\moca\lang\groovy\GroovyErrorCollector.java
+C:\moca-language-server\src\main\java\com\github\joshdevyn\mocaide\gui\MocaEditorPanel.java
+C:\moca-language-server\src\main\java\com\github\mrglassdanny\mocalanguageserver\moca\lang\groovy\ast\GroovyASTNodeVisitor.java
+C:\moca-language-server\src\main\java\com\github\joshdevyn\mocaide\gui\visualization\DataVisualizationPanel.java
+C:\moca-language-server\src\main\java\com\github\mrglassdanny\mocalanguageserver\moca\lang\mocasql\util\MocaSqlLanguageUtils.java
+C:\moca-language-server\src\main\java\com\github\mrglassdanny\mocalanguageserver\moca\lang\util\MocaLanguageUtils.java
+C:\moca-language-server\src\main\java\com\github\mrglassdanny\mocalanguageserver\services\hover\MocaCompilationServiceHoverProvider.java
+C:\moca-language-server\src\main\java\com\github\mrglassdanny\mocalanguageserver\services\command\response\OpenMocaTraceOutlineResponse.java
+C:\moca-language-server\src\main\java\com\github\mrglassdanny\mocalanguageserver\moca\cache\mocasql\Table.java
+C:\moca-language-server\src\main\java\com\github\mrglassdanny\mocalanguageserver\services\command\response\MocaCSVResultsResponse.java
+C:\moca-language-server\src\main\java\com\github\joshdevyn\mocaide\util\PerformanceMonitor.java
+C:\moca-language-server\src\main\java\com\github\joshdevyn\mocaide\gui\connection\ConnectionEditDialog.java
+C:\moca-language-server\src\main\java\com\github\mrglassdanny\mocalanguageserver\moca\lang\mocasql\MocaSqlCompiler.java
+C:\moca-language-server\src\main\java\com\github\mrglassdanny\mocalanguageserver\MocaLanguageServer.java
+C:\moca-language-server\src\main\java\com\github\joshdevyn\mocaide\gui\connection\ConnectionDetailsPanel.java
+C:\moca-language-server\src\main\java\com\github\joshdevyn\mocaide\gui\editor\MocaTokenMaker.java
+C:\moca-language-server\src\main\java\com\github\mrglassdanny\mocalanguageserver\moca\lang\groovy\GroovyCompilationUnit.java
+C:\moca-language-server\src\main\java\com\github\mrglassdanny\mocalanguageserver\moca\lang\antlr\MocaSqlBaseListener.java
+C:\moca-language-server\src\main\java\com\github\mrglassdanny\mocalanguageserver\MocaLanguageServerOptions.java
+C:\moca-language-server\src\main\java\com\github\mrglassdanny\mocalanguageserver\services\hover\MocaTraceOutlineServiceHoverProvider.java
+C:\moca-language-server\src\main\java\com\github\mrglassdanny\mocalanguageserver\util\lsp\PositionUtils.java
+C:\moca-language-server\src\main\java\com\github\joshdevyn\mocaide\gui\editor\MocaTokenMakerFactory.java
+C:\moca-language-server\src\main\java\com\github\mrglassdanny\mocalanguageserver\moca\lang\MocaLanguageContext.java
+C:\moca-language-server\src\main\java\com\github\mrglassdanny\mocalanguageserver\moca\lang\groovy\GroovyCompiler.java
+C:\moca-language-server\src\main\java\com\github\joshdevyn\mocaide\gui\help\HelpSystem.java
+C:\moca-language-server\src\main\java\com\github\joshdevyn\mocaide\gui\CommandExecutionPanel.java
+C:\moca-language-server\src\main\java\com\github\joshdevyn\mocaide\gui\results\ResultComparisonDialog.java
+C:\moca-language-server\src\main\java\com\github\mrglassdanny\mocalanguageserver\services\FileManager.java
+C:\moca-language-server\src\main\java\com\github\mrglassdanny\mocalanguageserver\services\command\response\MocaLanguageServerOptionsResponse.java
+C:\moca-language-server\src\main\java\com\github\joshdevyn\mocaide\security\SecurityManager.java
+C:\moca-language-server\src\main\java\com\github\mrglassdanny\mocalanguageserver\moca\cache\mocasql\MocaSqlCache.java
+C:\moca-language-server\src\main\java\com\github\mrglassdanny\mocalanguageserver\services\format\MocaCompilationServiceDocumentFormattingProvider.java
+C:\moca-language-server\src\main\java\com\github\mrglassdanny\mocalanguageserver\moca\cache\mocasql\MocaSqlFunction.java
+C:\moca-language-server\src\main\java\com\github\joshdevyn\mocaide\gui\editor\AdvancedScriptEditor.java
+C:\moca-language-server\src\main\java\com\github\mrglassdanny\mocalanguageserver\moca\lang\mocasql\util\MocaSqlTokenUtils.java
+C:\moca-language-server\src\main\java\com\github\mrglassdanny\mocalanguageserver\services\command\request\MocaResultsRequest.java
+C:\moca-language-server\src\main\java\com\github\mrglassdanny\mocalanguageserver\services\command\response\MocaTraceResponse.java
+C:\moca-language-server\src\main\java\com\github\joshdevyn\mocaide\gui\MocaGuiWindow.java
+C:\moca-language-server\src\main\java\com\github\mrglassdanny\mocalanguageserver\util\lsp\StringDifferenceUtils.java
+C:\moca-language-server\src\main\java\com\github\mrglassdanny\mocalanguageserver\services\command\response\MocaLanguageServerActivateResponse.java
+C:\moca-language-server\src\main\java\com\github\mrglassdanny\mocalanguageserver\moca\lang\MocaEmbeddedLanguageRange.java
+C:\moca-language-server\src\main\java\com\github\mrglassdanny\mocalanguageserver\moca\lang\antlr\MocaLexer.java
+C:\moca-language-server\src\main\java\com\github\mrglassdanny\mocalanguageserver\moca\lang\groovy\util\GroovyLanguageUtils.java
+C:\moca-language-server\src\main\java\com\github\mrglassdanny\mocalanguageserver\moca\lang\antlr\MocaSqlListener.java
+C:\moca-language-server\src\main\java\com\github\mrglassdanny\mocalanguageserver\moca\lang\MocaCompilationResult.java
+C:\moca-language-server\src\main\java\com\github\mrglassdanny\mocalanguageserver\moca\trace\MocaTraceOutliner.java
+C:\moca-language-server\src\main\java\com\github\mrglassdanny\mocalanguageserver\moca\cache\mocasql\TableIndex.java
+C:\moca-language-server\src\main\java\com\github\mrglassdanny\mocalanguageserver\moca\trace\MocaTraceOutline.java
+C:\moca-language-server\src\main\java\com\github\mrglassdanny\mocalanguageserver\services\definition\MocaCompilationServiceDefinitionProvider.java
